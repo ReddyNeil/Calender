@@ -7,4 +7,4 @@ This is a daily planner that allows users to create a schedul and assists in pla
 - 
 
 ## How it looks
-Assets/Screenshot 2023-09-21 at 10.28.07 pm.png
+/Users/neil/Homework/Calender/Assets/Screenshot 2023-09-21 at 10.28.07 pm.png
